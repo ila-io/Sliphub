@@ -25,7 +25,7 @@ routed my pcb today!
 
 ![sliphub pcb routed](journal_photos/pcb_finished.png)
 
-after that i made my case in fusion too! its supposed to mimic the look of my [slipboard](https://github.com/ila-io/slipboard/tree/main) hackpad! 
+after that i made my case in fusion too! its supposed to mimic the look of my [slipboard](https://github.com/ila-io/slipboard/tree/main) hackpad, since im trying to build out a cohesive ecosystem of accesories for my surface pro! 
 
 ![sliphub assembled](journal_photos/sliphub_assembled.png)
 ![sliphub disassembled](journal_photos/sliphub_disassembled.png)
