@@ -27,8 +27,8 @@ routed my pcb today!
 
 after that i made my case in fusion too! its supposed to mimic the look of my [slipboard](https://github.com/ila-io/slipboard/tree/main) hackpad, since im trying to build out a cohesive ecosystem of accesories for my surface pro! 
 
-![sliphub assembled](journal_photos/sliphub_assembled.png)
-![sliphub disassembled](journal_photos/sliphub_disassembled.png)
+![sliphub assembled](journal_photos/cad_assembled.png)
+![sliphub disassembled](journal_photos/cad_disassembled.png)
 
 
 now i'm all done, just have to upload all the files to github and submit! 
