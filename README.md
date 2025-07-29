@@ -9,7 +9,7 @@ I made it because the surface pro only has 2 USB C ports, which is basically unu
 heres what the product looks like!
 ![sliphub assembled](journal_photos/cad_assembled.png)
 ![sliphub disassembled](journal_photos/cad_disassembled.png)
-![slipbub pcb unrouted](journal_photos/pcb_start.png)
+![slipbub pcb routed](journal_photos/pcb_finished.png)
 ![sliphub schematic](journal_photos/schematic.png)
 ![sliphub pcb 3d model](journal_photos/pcb_3d.png)
 
