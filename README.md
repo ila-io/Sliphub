@@ -8,7 +8,8 @@ I made it because the surface pro only has 2 USB C ports, which is basically unu
 
 
 
-heres what the product looks like!
+### heres what the product looks like!
+
 (my friend didnt print out the top of the case in time, but i'll update this once I have it!) 
 ![sliphub irl](journal_photos/sliphub3.jpg)
 
