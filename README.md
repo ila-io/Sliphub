@@ -6,7 +6,12 @@ It has 2 USB A ports and 2 USB C ports, and will fit on the top of my surface pr
 
 I made it because the surface pro only has 2 USB C ports, which is basically unusable for any considerable amount of wired devices (i.e. using it in place of a desktop with monitors, input devices, etc), and I didn't have a USB hub already! 
 
+
+
 heres what the product looks like!
+(my friend didnt print out the top of the case in time, but i'll update this once I have it!) 
+![sliphub irl](journal_photos/sliphub3.jpg)
+
 ![sliphub assembled](journal_photos/cad_assembled.png)
 ![sliphub disassembled](journal_photos/cad_disassembled.png)
 ![slipbub pcb routed](journal_photos/pcb_finished.png)
