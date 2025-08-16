@@ -34,3 +34,13 @@ after that i made my case in fusion too! its supposed to mimic the look of my [s
 now i'm all done, just have to upload all the files to github and submit! 
 
 ### Hours spent: 7
+
+
+
+# August 8
+
+got my PCB in today and picked up the bottom half of the case from my friend, but he didnt print the top half, and he moves out for college tomorrow so i cant get him to print it :sob: 
+i can get it printed out pretty soon hopefully though! 
+
+![sliphub pcb irl](journal_photos/hubpcb.jpg)
+![sliphub pcb+case irl](journal_photos/hub+case.jpg)
