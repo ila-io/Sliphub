@@ -19,6 +19,8 @@ I made it because the surface pro only has 2 USB C ports, which is basically unu
 ![sliphub schematic](journal_photos/schematic.png)
 ![sliphub pcb 3d model](journal_photos/pcb_3d.png)
 
+### [demo video!](https://youtu.be/sluuIp59PdY)
+
 ## BOM:
 ### PCBA BOM:
 | item             | count | LCSC number | cost  | LCSC link                                                                                                                                                    |
