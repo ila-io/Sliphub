@@ -44,3 +44,5 @@ i can get it printed out pretty soon hopefully though!
 
 ![sliphub pcb irl](journal_photos/hubpcb.jpg)
 ![sliphub pcb+case irl](journal_photos/hub+case.jpg)
+
+it took me like 5 minutes to slip it in and secure it, but it works perfectly!
